@@ -1,7 +1,7 @@
 # CCNA-Study-Journey
 Place to better organize my current progress and understanding of CCNA networking concepts and labs. 
 
-**Target Date:** [Your exam date]
+**Target Date:** [January 2026]
 **Primary Resource:** Jeremy's IT Lab
 
 ## Progress
